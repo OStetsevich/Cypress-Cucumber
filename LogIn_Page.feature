@@ -19,5 +19,5 @@ Feature: PackageHub - Log In Page
 
         Examples:
             | _email                   | _password | message             |
-            | stetsevycholga@gmail.com | Nfhfcbr1! | User does not exist |
-            | stetsevicholga@gmail.com | nfhfcbr1! | Invalid password    |
+            | stetsevycholga@gmail.com | xxxxxxxxx | User does not exist |
+            | stetsevicholga@gmail.com | yyyyyyyyy | Invalid password    |
