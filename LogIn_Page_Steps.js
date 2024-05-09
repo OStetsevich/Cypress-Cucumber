@@ -3,7 +3,7 @@ import { Given, When, Then} from "@badeball/cypress-cucumber-preprocessor";
 
 const url = "https://test-packagehub.azureedge.net/";
 const email = "stetsevicholga@gmail.com";
-const password = "Nfhfcbr1!"
+const password = "xxxxxxxxx!"
 
 Given(`Go to PackageHub Log In Page`, () => {
     cy.visit(url);
